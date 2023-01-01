@@ -22,7 +22,7 @@ class Square():
     def permiter_of_my_square(self):
         """permiter_of_my_square function
         """
-        return (self.width * 2) + (self.height * 2)
+        return (self.width * 4)
 
     def __str__(self):
         """str function
